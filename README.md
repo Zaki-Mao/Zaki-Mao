@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zaki-Mao
 - 👀 I’m major in IT,MUST
-- 🌱 I’m currently learning computer network and machine laerning
-- 💞️ hope more chat with everyone
+- 🌱 I’m currently learning computer network and machine learning
+- 💞️ interested in Rocket/Space/Astronautical study
 - 📫 hi@maozunjie.com
 
 <!---
