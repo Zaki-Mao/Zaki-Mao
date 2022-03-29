@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zaki-Mao
-- 👀 I’m major in IT,MUST
-- 🌱 I’m currently learning computer network and machine learning
-- 💞️ interested in Rocket/Space/Astronautical study
+- 👀 I’m major in Computing Science, University of Glasgow
+- 🌱 I’m currently learning Data Analysis and machine learning
+- 💞️ interested in Rocket/Space/Robotics 
 - 📫 hi@maozunjie.com
 
 <!---
