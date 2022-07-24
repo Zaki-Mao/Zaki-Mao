@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zaki-Mao
-- 👀 I’m major in Computing Science, University of Glasgow
+- 👀 I’m major in Information Systems, Nanyang Technological University
 - 🌱 I’m currently learning Data Analysis and machine learning
 - 💞️ interested in Rocket/Space/Robotics 
 - 📫 hi@maozunjie.com
