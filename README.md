@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zaki-Mao
-- 👀 I’m major in Information Systems, Nanyang Technological University
-- 🌱 I’m currently learning Data Analysis and machine learning
-- 💞️ interested in Rocket/Space/Robotics 
+- 👀 18 CS Student from MUST, 22 MSIS student from NTU
+- 🌱 Programing/Languages(tools): SQL, C, Python, VHDL, Shell, MIPS Assembly, MATLAB, etc.
+- 🌱 Tools/Frameworks: OpenGL, MySQL, Hadoop, LaTeX, etc.
 - 📫 hi@maozunjie.com
 
 <!---
