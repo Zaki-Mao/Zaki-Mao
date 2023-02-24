@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zaki-Mao
-- 👀 18' CS Student from MUST, 22' MSIS student from NTU
-- 🎮 Game CC for NewHappy Esports currently
+- 👀 18' CS Student from **[MUST](https://www.must.edu.mo)**, 22' MSIS student from **[NTU](https://www.ntu.edu.sg)**
+- 🎮 Game CC for ![](https://img.shields.io/badge/NewHappyEsports-PUBG-red) currently
 - 🌱 Programing/Languages(tools): SQL, C, Python, VHDL, Shell, MIPS Assembly, MATLAB, etc.
 - 🌱 Tools/Frameworks: OpenGL, MySQL, Hadoop, LaTeX, etc.
 - 📫 hi@maozunjie.com
