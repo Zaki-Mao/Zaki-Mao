@@ -10,7 +10,7 @@
   <a href="mailto:maozunjie@gmail.com">
     <img src="https://img.shields.io/badge/Email-maozunjie%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
+  <a href="https://www.linkedin.com/in/zunjie-mao-b56838233/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -20,23 +20,12 @@
 ### 👨‍💻 About Me
 
 Hi there! I'm **Zaki**. 
-I hold a Master's in Information Systems from **[NTU](https://www.ntu.edu.sg)** (Class of '22) and a CS background from **[MUST](https://www.must.edu.mo)** (Class of '18).
+I hold a Master's in Information Systems from **[NTU](https://www.ntu.edu.sg)** and a CS background from **[MUST](https://www.must.edu.mo)**.
 
 Currently, I focus on building tools that improve efficiency and capturing stories through my lens. I love turning chaotic problems into structured product solutions.
 
 ---
 
-### 🌟 Featured Projects
-
-| **🛠️ SpotMark** | **📷 Fotozaki** |
-|:---:|:---:|
-| **Design/Dev Tool** | **Photography Portfolio** |
-| A tool to bridge the gap between design reviews and development. <br> *(Add a brief 1-sentence value prop here)* | My personal collection of street photography and visual stories. <br> *Captured in Shanghai & beyond.* |
-| [`View Repo`](#) / [`Website`](#) | [`View Repo`](#) / [`Website`](#) |
-
-> *Check out my repositories for more experiments including AI Agents & Web3 tools.*
-
----
 
 ### 🛠️ Tech Stack & Tools
 
