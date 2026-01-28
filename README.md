@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=220&section=header&text=Zaki%20Mao&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=header&text=Zaki%20Mao&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%" />
 
   <h3>🚀 Product Manager | 🛠️ Indie Developer | 📷 Street Photographer</h3>
   
@@ -26,7 +26,6 @@ Currently, I focus on building tools that improve efficiency and capturing stori
 
 ---
 
-
 ### 🛠️ Tech Stack & Tools
 
 **Core Engineering**
@@ -42,12 +41,3 @@ Currently, I focus on building tools that improve efficiency and capturing stori
 
 **Academic Roots**
 <span style="font-size: 12px; color: grey;">MIPS Assembly, VHDL, Hadoop, OpenGL, MATLAB</span>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaki-Mao&show_icons=true&theme=radical&hide_border=true" height="160" alt="Zaki's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaki-Mao&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
-</div>
