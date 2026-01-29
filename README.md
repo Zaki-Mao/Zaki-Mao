@@ -41,3 +41,9 @@ Currently, I focus on building tools that improve efficiency and capturing stori
 
 **Academic Roots**
 <span style="font-size: 12px; color: grey;">MIPS Assembly, VHDL, Hadoop, OpenGL, MATLAB</span>
+
+## 🛠 some Projects
+
+- **[SpotMark](https://www.figma.com/files/team/1549279259178261763/resources/community/plugin/1589146803496429504/spotmark?fuid=1549279257114465194)** - A local-first, zero-config issue tracker for Figma to bridge the gap between design and development.
+- **[Be Holmes](https://beholmes.com)** - An AI-driven news sniper and analysis engine built for prediction markets.
+- **[Fotozaki](https://fotozaki.com)** - My personal photography website.
