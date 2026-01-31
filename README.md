@@ -24,6 +24,8 @@ I hold a Master's in Information Systems from **[NTU](https://www.ntu.edu.sg)** 
 
 Currently, I focus on building tools that improve efficiency and capturing stories through my lens. I love turning chaotic problems into structured product solutions.
 
+Welcome to my personal website: https://zakimao.com/
+
 ---
 
 ### 🛠️ Tech Stack & Tools
